@@ -519,7 +519,7 @@ function ProductCampaign()
                         </Grid>
                         <Grid item xs={ 12 } sm={ 12 } md={ 4 }>
                             <div className="CampFooter_01">
-                                <span>Concent & Event By</span>
+                                <span>Concept & Event By</span>
                             </div><br />
                             <img src={ logo } className="lLogo_2021" style={ { objectFit: 'contain ', height: '100px' } } alt="" />
                         </Grid>
